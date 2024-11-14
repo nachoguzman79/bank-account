@@ -1,1 +1,1 @@
-This is  aTypescript project. I am coding a Bank account.
+This is a Typescript project. I am coding a bank account
